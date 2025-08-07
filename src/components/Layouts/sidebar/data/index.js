@@ -70,19 +70,19 @@ export const NAV_DATA = [
       {
         title: "Master Flows",
         icon: Icons.Layers,
-        url: "/query/master-flows",
+        url: "/querychain/masterflows",
         items: [],
       },
       {
         title: "Workflows",
         icon: Icons.Workflow,
-        url: "/query/workflows",
+        url: "/querychain/workflows",
         items: [],
       },
       {
         title: "Databases",
         icon: Icons.Database,
-        url: "/query/databases",
+        url: "/querychain/database",
         items: [],
       },
       {
